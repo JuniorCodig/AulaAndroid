@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
+
     fun btCalcular(view: View){
         //recuperar valores
 //        val precoAlcool = findViewById<EditText>(R.id.edit_preco_alcool)
